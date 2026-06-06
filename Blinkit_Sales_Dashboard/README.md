@@ -85,7 +85,7 @@ The dashboard utilizes Blinkit retail sales data containing information related 
 ## Repository Structure
 
 ```text
-Blinkit-Sales-Dashboard/
+Blinkit_Sales_Dashboard/
 │
 ├── Blinkit.pbix
 ├── BlinkIT_Dataset.xlsx
