@@ -88,7 +88,7 @@ The dashboard utilizes Blinkit retail sales data containing information related 
 Blinkit-Sales-Dashboard/
 │
 ├── Blinkit.pbix
-├── BlinkIT_Dataset.csv
+├── BlinkIT_Dataset.xlsx
 └── README.md
 ```
 
