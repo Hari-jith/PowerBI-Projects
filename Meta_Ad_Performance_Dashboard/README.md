@@ -243,20 +243,24 @@ Major engagement originates from:
 # Folder Structure
 
 ```text
-Meta-Ad-Performance-Analysis
+Meta_Ad_Performance_Dashboard
 │
 ├── Meta_Ad.pbix
-├── Dashboard Insights.pdf
-├── Domain Knowledge Document.pdf
 ├── README.md
 │
-├── images
+├── Images
 │   ├── dashboard_overview.png
 │   ├── kpi_cards.png
 │   ├── audience_analysis.png
 │   ├── time_geographic_analysis.png
 │   ├── ad_type_performance.png
 │   └── data_model.png
+|
+├── Data
+│   ├── ad_events.csv
+│   ├── ads.csv
+│   ├── campaigns.csv
+│   ├── users.csv
 ```
 
 ---
