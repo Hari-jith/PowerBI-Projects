@@ -160,8 +160,7 @@ This page lets analysts drill into individual records behind any trend or anomal
 
 > Add screenshots of each dashboard page here once uploaded, e.g.:
 >
-> ```markdown
 > ![Monthly View](Hospital-ER-Analytics/Images/monthly-view.png)
 > ![Consolidated View](Hospital-ER-Analytics/Images/consolidated-view.png)
 > ![Patient Details](Hospital-ER-Analytics/Images/patient-details.png)
-> ```
+
