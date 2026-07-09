@@ -158,9 +158,8 @@ This page lets analysts drill into individual records behind any trend or anomal
 
 ## 📷 Screenshots
 
-> Add screenshots of each dashboard page here once uploaded, e.g.:
->
-> ![Monthly View][Hospital-ER-Analytics/Images/monthly-view.png]
-> ![Consolidated View](Hospital-ER-Analytics/Images/consolidated-view.png)
-> ![Patient Details](Hospital-ER-Analytics/Images/patient-details.png)
+><img width="1188" height="727" alt="monthly-view" src="https://github.com/user-attachments/assets/1c0cd5cc-257b-4f79-8629-4ec38749f593" />
 
+><img width="1187" height="726" alt="consolidated-view" src="https://github.com/user-attachments/assets/c0b3b135-6f70-451c-9be2-6e3f628b5113" />
+
+><img width="1188" height="726" alt="patient-details" src="https://github.com/user-attachments/assets/8532d289-2a18-413f-ae98-4630a690ad14" />
